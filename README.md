@@ -5,7 +5,6 @@
 [![Tailwind CSS](https://img.shields.io/badge/styled%20with-TailwindCSS-blue?logo=tailwindcss)](https://tailwindcss.com/)
 [![Prisma](https://img.shields.io/badge/database-Prisma%20%2B%20PostgreSQL-blueviolet?logo=prisma)](https://www.prisma.io/)
 [![Gemini](https://img.shields.io/badge/powered%20by-Gemini%20AI-red?logo=google)](https://deepmind.google/technologies/gemini/)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -50,12 +49,6 @@ Built with **Next.js 15**, **React 19**, **Tailwind CSS**, and integrated with *
 ## 🚀 Local Setup
 
 > Make sure you have **Node.js ≥ 18**, **pnpm/npm**, and **PostgreSQL** installed.
-
-### 1. Clone the repo
-
-git clone https://github.com/HrishikeshPoloju/AI-Career-Coach.git
-cd AI-Career-Coach
-
  Install dependencies
 bash
 Copy
@@ -104,13 +97,6 @@ Cover letters based on role & user input
 Custom resume generation from form data
 
 Interview questions & suggested LLM-based responses
-
-📄 License
-This project is licensed under the MIT License.
-
-🙌 Feedback
-Have feedback, suggestions, or want to collaborate?
-Open an issue or reach out on LinkedIn
 
 🌐 Live Site -https://ai-career-coach-mu.vercel.app/ 
 
