@@ -98,5 +98,3 @@ Custom resume generation from form data
 
 Interview questions & suggested LLM-based responses
 
-🌐 Live Site -https://ai-career-coach-mu.vercel.app/ 
-
