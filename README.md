@@ -62,11 +62,10 @@ Create a .env file in the root directory and add:
 ini
 Copy
 Edit
-DATABASE_URL=postgresql://yourUser:yourPassword@localhost:5432/yourDb
 CLERK_SECRET_KEY=your_clerk_secret
 CLERK_PUBLISHABLE_KEY=your_clerk_publishable
 NEXT_PUBLIC_GEMINI_API_KEY=your_gemini_api_key
-Replace with your own Clerk, Gemini, and PostgreSQL values.
+Replace with your own Clerk, Gemini.
 
  Set up the database
 bash
