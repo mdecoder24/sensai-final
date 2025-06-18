@@ -3,7 +3,7 @@
 [![Vercel](https://img.shields.io/badge/deployed%20on-vercel-brightgreen?logo=vercel)](https://ai-career-coach-mu.vercel.app/)
 [![Next.js](https://img.shields.io/badge/built%20with-Next.js-black?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/styled%20with-TailwindCSS-blue?logo=tailwindcss)](https://tailwindcss.com/)
-[![Prisma](https://img.shields.io/badge/database-Prisma%20%2B%20PostgreSQL-blueviolet?logo=prisma)](https://www.prisma.io/)
+[![Prisma](https://img.shields.io/badge/database-Prisma%20%2B%20NeonDB-blueviolet?logo=prisma)](https://www.prisma.io/)
 [![Gemini](https://img.shields.io/badge/powered%20by-Gemini%20AI-red?logo=google)](https://deepmind.google/technologies/gemini/)
 
 ---
