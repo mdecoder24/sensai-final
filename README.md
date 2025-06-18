@@ -27,7 +27,7 @@ Built with **Next.js 15**, **React 19**, **Tailwind CSS**, and integrated with *
 |--------------|---------------------------------------------------------------------------|
 | Frontend     | React 19, Next.js App Router, Tailwind CSS, Shadcn UI                     |
 | Backend      | Next.js Server Actions, Inngest (for async workflows)                     |
-| Database     | Prisma ORM, PostgreSQL                                                    |
+| Database     | Prisma ORM, NeonDB                                                    |
 | Auth         | Clerk Authentication                                                      |
 | AI Services  | Gemini API (for Resume, Cover Letter, Interview answers)                  |
 | Deployment   | Vercel (CI/CD, environment management)                                    |
